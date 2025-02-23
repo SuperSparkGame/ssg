@@ -42,4 +42,4 @@ Super Spark Game ("we", "our", "us") is committed to protecting your privacy. Th
 
 ## 7. Contact Us
 
-* If you have any questions about this Privacy Policy, please contact us at: [linhltt2105@gmail.com].
+* If you have any questions about this Privacy Policy, please contact us at: linhltt2105@gmail.com.
