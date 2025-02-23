@@ -2,8 +2,6 @@
 
 **Super Spark Game**
 
-**Effective Date:** [Date you release your game]
-
 Super Spark Game ("we", "our", "us") is committed to protecting your privacy. This Privacy Policy describes how we collect, use, and share information when you use our games.
 
 ## 1. Information We Collect
@@ -44,10 +42,4 @@ Super Spark Game ("we", "our", "us") is committed to protecting your privacy. Th
 
 ## 7. Contact Us
 
-* If you have any questions about this Privacy Policy, please contact us at: [Your contact email address].
-
-**Important Notes:**
-
-* This is a general template. You should customize it for each specific game.
-* Carefully review the Google Play Console requirements for Privacy Policies.
-* If you use third-party services (e.g., ad networks, analytics), ensure you understand their privacy policies.
+* If you have any questions about this Privacy Policy, please contact us at: [linhltt2105@gmail.com].
